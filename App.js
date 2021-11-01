@@ -7,8 +7,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 const App = ()=>{
-    const APP_ID = 'b5f13500';
-    const APP_KEY = '06eb522284c59b7142c789fb22ba1725';
+    const APP_ID = '';
+    const APP_KEY = '';
 
     const [recipes,setrecipes] = useState([]);
     let [search,setSearch] = useState("");
